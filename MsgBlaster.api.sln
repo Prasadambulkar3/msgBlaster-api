@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsgBlaster.api", "MsgBlaster.api\MsgBlaster.api.csproj", "{5C938641-D90E-4E9C-9703-563A3CD0C055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsgBlaster.Service", "MsgBlaster.Service\MsgBlaster.Service.csproj", "{2B324F82-295F-4FDD-89BE-315B34E0C91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsgBlaster.DTO", "MsgBlaster.DTO\MsgBlaster.DTO.csproj", "{546E8AC2-48FC-41B8-B14E-717D3065015E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsgBlaster.Domain", "MsgBlaster.Domain\MsgBlaster.Domain.csproj", "{BCAD4F3E-482D-4B1E-B1D3-BA0017204DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsgBlaster.Repo", "MsgBlaster.Repo\MsgBlaster.Repo.csproj", "{0408AD9C-C896-4F41-83D0-ABB02EC09AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgBlasterEcouponBackendService", "msgBlasterEcouponBackendService\msgBlasterEcouponBackendService.csproj", "{73BEBCD1-4552-4527-B8FD-266B4E57372F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgBlasterCampaignSend", "msgBlasterCampaignSend\msgBlasterCampaignSend.csproj", "{3101410F-EE46-4BC4-BBEA-956703013A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgBlasterCampaignSendbywihz", "msgBlasterCampaignSendbywihz\msgBlasterCampaignSendbywihz.csproj", "{0227EE03-8E22-4457-B4A8-9DA07DB652B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgBlasterEcouponBackendServiceWiz", "msgBlasterEcouponBackendServiceWiz\msgBlasterEcouponBackendServiceWiz.csproj", "{64FE79F3-D913-4CFB-A7E5-96557CBB0E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAndUploadSQLiteData", "ReadAndUploadSQLiteData\ReadAndUploadSQLiteData.csproj", "{FBC781C5-8D06-433F-9F3F-640F97CA38E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgBlasterBackendServiceForTodaysBirthdayAndAnniversary", "msgBlasterBackendServiceForTodaysBirthdayAndAnniversary\msgBlasterBackendServiceForTodaysBirthdayAndAnniversary.csproj", "{8C2E38D5-07AF-4B22-AEAB-E6F082A5812B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C938641-D90E-4E9C-9703-563A3CD0C055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C938641-D90E-4E9C-9703-563A3CD0C055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C938641-D90E-4E9C-9703-563A3CD0C055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C938641-D90E-4E9C-9703-563A3CD0C055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B324F82-295F-4FDD-89BE-315B34E0C91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B324F82-295F-4FDD-89BE-315B34E0C91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B324F82-295F-4FDD-89BE-315B34E0C91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B324F82-295F-4FDD-89BE-315B34E0C91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546E8AC2-48FC-41B8-B14E-717D3065015E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546E8AC2-48FC-41B8-B14E-717D3065015E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546E8AC2-48FC-41B8-B14E-717D3065015E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546E8AC2-48FC-41B8-B14E-717D3065015E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAD4F3E-482D-4B1E-B1D3-BA0017204DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAD4F3E-482D-4B1E-B1D3-BA0017204DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAD4F3E-482D-4B1E-B1D3-BA0017204DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAD4F3E-482D-4B1E-B1D3-BA0017204DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0408AD9C-C896-4F41-83D0-ABB02EC09AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0408AD9C-C896-4F41-83D0-ABB02EC09AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0408AD9C-C896-4F41-83D0-ABB02EC09AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0408AD9C-C896-4F41-83D0-ABB02EC09AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BEBCD1-4552-4527-B8FD-266B4E57372F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BEBCD1-4552-4527-B8FD-266B4E57372F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BEBCD1-4552-4527-B8FD-266B4E57372F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BEBCD1-4552-4527-B8FD-266B4E57372F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3101410F-EE46-4BC4-BBEA-956703013A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3101410F-EE46-4BC4-BBEA-956703013A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3101410F-EE46-4BC4-BBEA-956703013A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3101410F-EE46-4BC4-BBEA-956703013A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0227EE03-8E22-4457-B4A8-9DA07DB652B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0227EE03-8E22-4457-B4A8-9DA07DB652B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0227EE03-8E22-4457-B4A8-9DA07DB652B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0227EE03-8E22-4457-B4A8-9DA07DB652B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FE79F3-D913-4CFB-A7E5-96557CBB0E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FE79F3-D913-4CFB-A7E5-96557CBB0E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FE79F3-D913-4CFB-A7E5-96557CBB0E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FE79F3-D913-4CFB-A7E5-96557CBB0E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC781C5-8D06-433F-9F3F-640F97CA38E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC781C5-8D06-433F-9F3F-640F97CA38E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC781C5-8D06-433F-9F3F-640F97CA38E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC781C5-8D06-433F-9F3F-640F97CA38E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2E38D5-07AF-4B22-AEAB-E6F082A5812B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2E38D5-07AF-4B22-AEAB-E6F082A5812B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2E38D5-07AF-4B22-AEAB-E6F082A5812B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2E38D5-07AF-4B22-AEAB-E6F082A5812B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

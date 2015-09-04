@@ -1,0 +1,49 @@
+<Roles>
+	<Role Type="admin">
+	 <Groups IsAccess="true" />
+	 <Contacts IsAccess="true" />
+	 <ImportContacts IsAccess="true" />
+	 <Templates IsAccess="true" />
+	 <Users IsAccess="true" />
+	 <Locations IsAccess="true" />
+	 <Campaigns IsAccess="true" />
+	 <CreditRequests IsAccess="true" />
+	 <Coupons IsAccess="true" />
+	 <Settings IsAccess="true" />
+	 <Redeems IsAccess="true" />
+   <SenderCode IsAccess="true" />
+	</Role>
+	
+	<Role Type="normal">
+	
+	 <Groups IsAccess="true" />
+	 <Contacts IsAccess="true" />
+	 <ImportContacts IsAccess="true" />
+	 <Templates IsAccess="true" />
+	 <Users IsAccess="false" />
+	 <Locations IsAccess="false" />
+	 <Campaigns IsAccess="true" />
+	 <CreditRequests IsAccess="false" />
+	 <Coupons IsAccess="true" />
+	 <Settings IsAccess="false" /> 
+	 <Redeems IsAccess="true" />
+   <SenderCode IsAccess="false" />
+	 
+	</Role>
+	
+	<Role Type="ecoupon">
+	 <Groups IsAccess="false" />
+	 <Contacts IsAccess="false" />
+	 <ImportContacts IsAccess="false" />
+	 <Templates IsAccess="false" />
+	 <Users IsAccess="false" />
+	 <Locations IsAccess="false" />
+	 <Campaigns IsAccess="false" />
+	 <CreditRequests IsAccess="false" />
+	 <Coupons IsAccess="false" />
+	 <Settings IsAccess="false" /> 
+	 <Redeems IsAccess="true" />
+   <SenderCode IsAccess="false" />
+	</Role>
+	
+</Roles>

@@ -1,0 +1,12 @@
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\MsgBlaster.Repo.dll.config
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\MsgBlaster.Repo.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\MsgBlaster.Repo.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\EntityFramework.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\MsgBlaster.Domain.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\MsgBlaster.Domain.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\EntityFramework.xml
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\obj\Debug\MsgBlaster.Repo.csprojResolveAssemblyReference.cache
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\obj\Debug\MsgBlaster.Repo.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Repo\obj\Debug\MsgBlaster.Repo.pdb

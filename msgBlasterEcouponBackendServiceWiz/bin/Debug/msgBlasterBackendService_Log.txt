@@ -1,0 +1,4 @@
+13-07-2015 14:43:39 -   ReadEcouponEcouponCampaign() - String was not recognized as a valid DateTime.
+13-07-2015 14:45:02 -   ReadEcouponEcouponCampaign() - String was not recognized as a valid DateTime.
+21-07-2015 10:18:09 -   ReadEcouponEcouponCampaign() - String was not recognized as a valid DateTime.
+31-07-2015 13:25:29 -   ReadEcouponEcouponCampaign() - String was not recognized as a valid DateTime.

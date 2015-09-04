@@ -1,0 +1,5 @@
+D:\Projects\msgBlaster-api\MsgBlaster.Domain\bin\Release\MsgBlaster.Domain.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Domain\bin\Release\MsgBlaster.Domain.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Domain\obj\Release\MsgBlaster.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\msgBlaster-api\MsgBlaster.Domain\obj\Release\MsgBlaster.Domain.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Domain\obj\Release\MsgBlaster.Domain.pdb

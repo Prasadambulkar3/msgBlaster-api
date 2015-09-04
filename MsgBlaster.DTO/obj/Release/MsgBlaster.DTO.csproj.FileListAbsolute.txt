@@ -1,0 +1,5 @@
+D:\Projects\msgBlaster-api\MsgBlaster.DTO\bin\Release\MsgBlaster.DTO.dll
+D:\Projects\msgBlaster-api\MsgBlaster.DTO\bin\Release\MsgBlaster.DTO.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.DTO\obj\Release\MsgBlaster.DTO.csprojResolveAssemblyReference.cache
+D:\Projects\msgBlaster-api\MsgBlaster.DTO\obj\Release\MsgBlaster.DTO.dll
+D:\Projects\msgBlaster-api\MsgBlaster.DTO\obj\Release\MsgBlaster.DTO.pdb

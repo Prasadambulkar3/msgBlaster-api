@@ -1,0 +1,16 @@
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Service.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Service.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\AutoMapper.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\AutoMapper.Net4.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Domain.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.DTO.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Repo.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\System.Linq.Dynamic.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\EntityFramework.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Domain.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.DTO.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\MsgBlaster.Repo.pdb
+D:\Projects\msgBlaster-api\MsgBlaster.Service\bin\Release\EntityFramework.xml
+D:\Projects\msgBlaster-api\MsgBlaster.Service\obj\Release\MsgBlaster.Service.csprojResolveAssemblyReference.cache
+D:\Projects\msgBlaster-api\MsgBlaster.Service\obj\Release\MsgBlaster.Service.dll
+D:\Projects\msgBlaster-api\MsgBlaster.Service\obj\Release\MsgBlaster.Service.pdb

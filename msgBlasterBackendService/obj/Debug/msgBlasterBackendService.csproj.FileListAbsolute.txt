@@ -1,0 +1,17 @@
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\msgBlasterBackendService.exe.config
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\msgBlasterBackendService.exe
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\msgBlasterBackendService.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Domain.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.DTO.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Repo.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Service.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\AutoMapper.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Domain.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.DTO.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Repo.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\MsgBlaster.Service.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\obj\Debug\msgBlasterBackendService.csprojResolveAssemblyReference.cache
+D:\Projects\msgBlaster-api\msgBlasterBackendService\obj\Debug\msgBlasterBackendService.exe
+D:\Projects\msgBlaster-api\msgBlasterBackendService\obj\Debug\msgBlasterBackendService.pdb
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\EntityFramework.dll
+D:\Projects\msgBlaster-api\msgBlasterBackendService\bin\Debug\EntityFramework.xml
